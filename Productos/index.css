@@ -1,0 +1,52 @@
+.titulo {
+    text-align: center;
+    color: #688493;
+    background-color: white;
+    font-family: Impact, Charcoal, sans-serif;
+   font-size: 80px;
+}
+.fondo {
+    background-color: #29313A;
+}
+.letras {
+    color: #BCC7CD;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+.aspiradoras { 
+    color: #E6CBBF; 
+    font-family: Arial, Gadget, sans-serif;
+}
+.borde {
+    border: solid #EBCFC2;
+
+    
+}
+.titulo2 {
+color: #A1C1CB;
+font-family: Arial, Gadget, sans-serif;
+}
+.borde2 {
+    border:solid #A1C1CB;
+}
+.titulo3 {
+    color: #BCBDBF;
+    font-family: Arial, Gadget, sans-serif;
+}
+.borde3 {
+    border: solid #BCBDBF;
+}
+.titulo4 {
+    color: #8D94A1;
+    font-family: Arial, Gadget, sans-serif;
+}
+.borde4 {
+    border: solid#9097A4;
+
+}
+.titulo5 {
+    color: #B2B2AA;
+    font-family: Arial, Gadget, sans-serif;
+}
+.borde5 {
+    border: solid #B5B5AD;
+}
